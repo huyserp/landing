@@ -1,0 +1,25 @@
+.social-footer {
+  background-color: #2c2b2b;
+  padding: 60px;
+  text-align: center;
+  margin-top: 32px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 16px;
+}
+
+.list-inline i {
+ color: #1EDD88;
+ font-size: 24px;
+}
+
+.social-footer p {
+  color: rgb(150, 150, 150);
+}
